@@ -1,7 +1,3 @@
-www
-mail
-ftp
-localhost
 webmail
 smtp
 pop
@@ -14,7 +10,9 @@ autodiscover
 autoconfig
 m
 imap
-test
+ 
+  
+  test
 ns
 blog
 pop3
