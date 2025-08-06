@@ -10,9 +10,7 @@ autodiscover
 autoconfig
 m
 imap
- 
-  
-  test
+ test
 ns
 blog
 pop3
@@ -96,3 +94,4 @@ sms
 office
 exchange
 ipv4
+
