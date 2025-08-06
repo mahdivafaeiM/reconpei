@@ -1,7 +1,5 @@
 webmail
 smtp
-mahdi
-vafa
 pop
 ns1
 webdisk
